@@ -17,7 +17,7 @@ def change_rainbow_colors
   
   
 end
-returns rainbow_colors 
+return rainbow_colors 
 
 def add_colors
   # Write a solution that adds "green", then "blue" to the rainbow_colors array, then returns the array
