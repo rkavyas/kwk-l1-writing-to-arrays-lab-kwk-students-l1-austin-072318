@@ -10,7 +10,7 @@ def change_rainbow_colors
 
   rainbow_colors = ["red", "light_red", "light_yellow"]
   
-  return rainbow_colors
+  puts rainbow_colors
   
   
   
